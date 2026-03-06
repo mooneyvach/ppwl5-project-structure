@@ -1,8 +1,7 @@
 # ppwl5-latihan Refactor
 
 cara pakai:
-1. Setup **db.sql**
-2. Jalankan:
+1. Jalankan:
 ```bash
 bun install
 bun --watch index.ts
